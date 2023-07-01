@@ -1,6 +1,4 @@
-# Analysis-of-Nimet-and-Nasa-Dataset
-cleaning, feature engineering, exploratory data analysis and comparative analysis of Nimet and Nasa data
-this is a raw data set obtained from Nimet and Nasa. 
-the data set is from a particular location and the goal is to check the similarities and later on predict weather patterns from it. 
-the data was cleaned using Industry standard techniques and exploratory analysis was carried out. 
-Futher update on the work will include building Regressional models, Decision trees to handle predictions.
+
+Title: Analysis of Nimet and Nasa Dataset: Cleaning, Feature Engineering, EDA, and Comparative Analysis
+
+Description: This project involves cleaning, feature engineering, exploratory data analysis (EDA), and comparative analysis of raw data obtained from Nimet and Nasa. The dataset pertains to a specific location, and the objective is to identify similarities and eventually predict weather patterns. The data was cleaned using industry-standard techniques, followed by an in-depth exploratory analysis. Additionally, manual data acquisition was performed, and models were built to assess the performance of the raw data.
